@@ -1,0 +1,4 @@
+**************Admin Panel**************
+username/email : admin/ example@gmail.com (use any one) 
+Password : admin
+
